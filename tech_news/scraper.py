@@ -13,9 +13,8 @@ def fetch(url):
     else:
         return response.text
 
-
 # Requisito 2
-def scrape_updates(html_content):
+ def scrape_updates(html_content):
     """Seu código deve vir aqui"""
 
 
